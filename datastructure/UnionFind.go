@@ -1,4 +1,4 @@
-package golang
+package datastructure
 
 type UnionFind struct{
     parents []int
